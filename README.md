@@ -6,5 +6,7 @@ Minesweeper game with an OOP foundation and modern UI.
 <p align="center">
     <img width="450px" height="200px"src="Minesweeper/images/user1.jpeg" alt="Material Bread logo">
 </p>
+
+<img src="Minesweeper/images/user1.jpeg" width="100" height="100" />
  
 
