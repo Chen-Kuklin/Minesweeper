@@ -5,4 +5,6 @@ Minesweeper game with an OOP foundation and modern UI.
  
  <img src="Minesweeper/images/user1.jpeg" height="10" />
  
+ <img src="Minesweeper/images/user1.jpeg" width="50%" height="50%" />
+ 
  ![ mypic](Minesweeper/images/user1.jpeg){:height="100px" width="100px"}.
