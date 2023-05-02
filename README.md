@@ -10,7 +10,7 @@ The game features an attractive user interface that is easy to use and visually 
   Players are challenged to break their own records and achieve victory.
  
  <p align="center">
-    <img width="450px" height="250px"src="Minesweeper/images/user2.jpeg" alt="Material Bread logo">
+    <img width="450px" height="250px"src="Minesweeper/images/user3.jpeg" alt="Material Bread logo">
 </p>
  
 
