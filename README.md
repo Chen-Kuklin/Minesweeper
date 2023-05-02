@@ -4,7 +4,7 @@ Minesweeper game with an OOP foundation and modern UI.
  The game features an attractive user interface that is easy to use and visually appealing. Players can enjoy the familiar gameplay of Minesweeper while experiencing modern design and functionality. The program has been thoroughly tested and optimized for performance, ensuring a smooth and enjoyable experience for players.
  
 <p align="center">
-    <img width="200" src="Minesweeper/images/user1.jpeg" width="100%" height="100%" alt="Material Bread logo">
+    <img width="2000" src="Minesweeper/images/user1.jpeg" width="100%" height="100%" alt="Material Bread logo">
 </p>
  
 
