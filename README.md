@@ -7,5 +7,7 @@ Minesweeper game with an OOP foundation and modern UI.
     <img width="450px" height="250px"src="Minesweeper/images/user1.jpeg" alt="Material Bread logo">
 </p>
 
+ The game features multiple levels, each with its own speed record leaderboard. 
+ Players are challenged to break their own records and achieve victory.
  
 
